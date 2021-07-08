@@ -1,5 +1,0 @@
-/**
- * 
- * @author ${user}
- * @name ${appElementName}
- */
